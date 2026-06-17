@@ -1,0 +1,7 @@
+duckdb
+pandas
+numpy
+plotly
+xlsxwriter
+persiantools
+difflib
